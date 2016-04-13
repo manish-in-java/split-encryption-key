@@ -1,3 +1,7 @@
+[![Build Status](https://drone.io/github.com/manish-in-java/split-encryption-key/status.png)](https://drone.io/github.com/manish-in-java/split-encryption-key/latest)
+[![Custom License](http://b.repl.ca/v1/License-CUSTOM-red.png)](#LICENSE)
+[![Spring WebMVC Application](http://b.repl.ca/v1/spring-mvc-blue.png)](#SWMVC)
+
 # Background
 It is frequently required to encrypt sensitive data before storing it in a
 persistent store such as a relational database. It is also desirable for each
